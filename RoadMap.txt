@@ -1,0 +1,18 @@
+Title: 
+	React Weather App
+PreRequirements:
+	1:  GitHub	
+	2:	React
+	3:  JavaScript
+	4:  An Input for the User to type the name of country and city
+    5:  Show Weather Conditions as well as temperature, humidity, wind speed, date and time.
+    6:
+
+
+
+Suggested Implementation
+Fetch user's device position. If you're unable to get the user's position, set London as the default location.
+Fetch weather data (forecast data and current weather data) of the location from weather API
+Format the data into charts
+Display the chart and current weather    
+
